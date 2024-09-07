@@ -1,4 +1,5 @@
 .. __: https://docs.readthedocs.io/en/stable/tutorial/#creating-a-read-the-docs-account
+.. _docs-repo: https://github.com/TweenzY-Y/Zwodziasz-Docs
 Beginning
 =========
 
@@ -19,4 +20,14 @@ After that, you need to send a message to **TweenzY** on discord with an email l
 Rules
 =====
 
+- In this version of our game, we focus on making the functionalities we implement as thoughtful and scalable as possible. 
 
+- Every function, mechanic or system we implement must be described in the documentation as clearly as possible.
+
+
+.. _links:
+
+Links
+=====
+
+- `docs-repo`_
